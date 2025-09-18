@@ -1,20 +1,62 @@
 [
     {
-        "id": 2,
+        "id": 1,
         "title": "Coffee",
-        "amount": 20,
+        "amount": 140,
+        "date": "2025-09-18"
+    },
+    {
+        "id": 2,
+        "title": "Lunch",
+        "amount": 350,
         "date": "2025-09-18"
     },
     {
         "id": 3,
-        "title": "Rice",
-        "amount": 50,
-        "date": "2025-09-18"
+        "title": "Books",
+        "amount": 1200,
+        "date": "2025-09-17"
     },
     {
         "id": 4,
+        "title": "Groceries",
+        "amount": 4200,
+        "date": "2025-09-16"
+    },
+    {
+        "id": 5,
+        "title": "Taxi",
+        "amount": 600,
+        "date": "2025-09-15"
+    },
+    {
+        "id": 6,
+        "title": "Snacks",
+        "amount": 180,
+        "date": "2025-09-14"
+    },
+    {
+        "id": 7,
+        "title": "Dinner",
+        "amount": 450,
+        "date": "2025-09-13"
+    },
+    {
+        "id": 8,
+        "title": "Movie",
+        "amount": 500,
+        "date": "2025-09-12"
+    },
+    {
+        "id": 9,
+        "title": "Gym",
+        "amount": 700,
+        "date": "2025-09-11"
+    },
+    {
+        "id": 10,
         "title": "Coffee",
-        "amount": 30,
-        "date": "2025-09-18"
+        "amount": 140,
+        "date": "2025-09-10"
     }
 ]
